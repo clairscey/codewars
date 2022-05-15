@@ -15,3 +15,5 @@ function high(x){
     let highScoreIndex = scores.indexOf( Math.max(...scores) )
     return words[highScoreIndex]
   }
+
+  //
